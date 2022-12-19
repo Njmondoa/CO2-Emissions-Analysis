@@ -1,4 +1,4 @@
-# CO2 Emissions by country
+# CO2 Emissions Around the World
 
 In this project, I analyzed and visualized CO2 Emissions by countries over time. 
 
@@ -26,12 +26,9 @@ In this project, I analyzed and visualized CO2 Emissions by countries over time.
 
 ![Logo](https://github.com/njimonda/GDP-by-Country-1999-2022/blob/main/steps/6.png)
 
-## Data Visualization
-
 
 ## Insights
 
-# CO2 Emissions Around the World
 
 This project dataset was downloaded from `kaggle`. 
 
